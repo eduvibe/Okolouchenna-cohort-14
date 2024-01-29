@@ -1,0 +1,59 @@
+
+
+    
+.footer-socials{
+    background-color:lightgray;
+    height: 20vh;
+    padding-top: 2px;
+}
+
+
+.socials i{
+    color: #00205b;
+    
+    
+}
+.socials{
+    display: flex;
+    justify-content: end;
+    margin-top: 4rem;
+}
+
+
+
+
+
+
+@media screen and (max-width: 789px) {
+
+    /* This is footer-social  responsiveness */
+
+    .socials{
+        display: block;
+        text-align: center;
+        padding-top: 2.1rem;
+        
+    }
+
+    .footer-socials{
+        background-color:lightgray;
+        height: 20vh;
+        padding-top: 2px;
+        
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
